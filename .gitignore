@@ -1,0 +1,5 @@
+.DS_Store
+input/*
+!input/empty.txt
+output/*
+!output/empty.txt
